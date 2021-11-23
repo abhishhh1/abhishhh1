@@ -1,6 +1,12 @@
-### Hey 👋, I'M [ABHISHEK SHARMA!](https://abhishhh1.github.io/abhishhh1/), THIS IS WHERE I LIVE ON THE INTERNET
+### Hey 👋, I'M [ABHISHEK SHARMA!](https://abhishhh1.github.io/abhishhh1/)
 
+I'm a Full Stack developer 🚀 from India, Currently working as Software Development Engineer [@Synaptic](https://synaptic.com/) 
 
+Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 and traveling 🏝️🗻.
+
+📫 Feel free to reach out to me.
+
+<br />
 <a href="https://twitter.com/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -23,13 +29,6 @@
   <img align="left" alt="Abhishek Sharma | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
 </a>
 <br />
-<br />
-
-Hi, I'm Abhishek Sharma, a Full Stack developer 🚀 from India, Currently working as Software Development Engineer [@Synaptic](https://synaptic.com/) 
-
-Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 and traveling 🏝️🗻.
-
-📫 Feel free to reach out to me.
 
 &nbsp;
 
