@@ -25,7 +25,7 @@ Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 a
 <a href="https://codeforces.com/profile/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Codeforces" width="22px" src="https://codeforces.org/s/26284/favicon-32x32.png" />
 </a>
-<a href="https://www.stopstalk.com/users/profile/abhishhh1">
+<a href="https://www.stopstalk.com/user/profile/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Stopstalk" width="22px" src="https://www.stopstalk.com/stopstalk/static/images/fav_assets/android-icon-192x192.png?_rev=20200425190226" />
 </a>
 <br />
