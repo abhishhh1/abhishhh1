@@ -2,7 +2,7 @@
 
 I'm a Full Stack developer 🚀 from India, Currently working as Software Development Engineer [@Synaptic](https://synaptic.com/) 
 
-Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 and traveling 🏝️🗻.
+Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 and travelling 🏝️🗻.
 
 📫 Feel free to reach out to me.
 
