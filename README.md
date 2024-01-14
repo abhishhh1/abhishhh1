@@ -16,9 +16,6 @@ Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 a
 <a href="https://www.instagram.com/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/abhishhh1">
-  <img align="left" alt="Abhishek Sharma | Facebook" width="22px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" />
-</a>
 <a href="https://codechef.com/users/abhishhh1">
   <img align="left" alt="Abhishek Sharma | Codechef" width="22px" src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg" />
 </a>
