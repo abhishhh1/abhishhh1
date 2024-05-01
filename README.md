@@ -1,6 +1,6 @@
 ### Hey 👋, I'M [ABHISHEK SHARMA!](https://abhishhh1.github.io/abhishhh1/)
 
-I'm a Full Stack developer 🚀 from India, Currently working as Software Development Engineer [@Synaptic](https://synaptic.com/) 
+I'm a Full Stack developer 🚀 from India, Currently working as Software Engineer [@Google](https://google.com/) 
 
 Beside's developing stuff, I enjoy listening music 🎧 , playing cricket 🏏 and travelling 🏝️🗻.
 
